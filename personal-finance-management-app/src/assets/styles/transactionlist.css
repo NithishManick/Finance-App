@@ -1,0 +1,152 @@
+/* transactionlist.css */
+
+.transaction-list-page {
+    background-color: #f0f2f5;
+    padding: 20px;
+    min-height: 100vh;
+  
+}
+
+h1 {
+    font-size: 24px;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-filter-container {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Adds space between the search bar and dropdown */
+    margin-bottom: 20px;
+}
+
+.search-bar,
+.filter-dropdown {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 45%; /* Makes both the search bar and dropdown the same width */
+    height: 40px; /* Ensures the same height for both elements */
+    box-sizing: border-box; /* Ensures padding is included in the height calculation */
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+     
+}
+
+.card {
+    width: 250px;
+    height: 230px;
+    background-color: #fefcfc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.card h2 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.card p {
+    font-size: 16px;
+    color: #666;
+    margin: 5px 0;
+}
+
+.buttons button {
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px 5px 0 0;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: white;
+    
+}
+.buttons button:nth-child(1) {
+    
+    background-color: #2ebd24;
+   
+}
+.buttons button:nth-child(1):hover {
+    background-color: rgb(29, 145, 38);
+  }
+
+
+
+.buttons button:nth-child(2) {
+    
+    background-color: #3269e9;
+   
+}
+.buttons button:nth-child(2):hover {
+    background-color: rgb(30, 54, 185);
+  }
+
+.buttons button:nth-child(3) {
+    background-color: #f5473b;
+    
+}
+.buttons button:nth-child(3):hover {
+    background-color: red;
+  }
+ 
+
+.buttons button:hover {
+    opacity: 0.9;
+}
+.main {
+    background-color: rgba(196, 191, 191, 0.548);
+    height: 100vh; /* Cover the full viewport height */
+    width: 100vw;  /* Cover the full viewport width */
+    position: fixed; /* Fixed position so it stays in place */
+    top: 0;
+    left: 0;
+    display: flex;
+    align-items: center; /* Center items vertically */
+    justify-content: center; /* Center items horizontally */
+}
+
+/* Style the popup to have a fixed size and be centered within the .main container */
+.popup {
+    background-color: white;
+    height: 380px;
+    width: 300px;
+    border-radius: 10px;
+    display: flex;
+    margin-left: 20px;
+    padding-left: 90px;
+    flex-direction: column;
+    align-items: normal;
+    justify-content: center; /* Center content vertically */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Ensure that closebutton styles remain the same */
+.closebutton {
+    padding: 10px 15px;
+    font-size: 14px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+   margin-left: 70px;
+    white-space: nowrap;
+    cursor: pointer;
+  
+    transition: background-color 0.3s ease;
+    color: white;
+    background-color: #3269e9;
+}
+.closebutton:hover {
+    background-color: rgb(30, 54, 185);
+}

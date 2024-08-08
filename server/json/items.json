@@ -1,0 +1,186 @@
+[
+  {
+    "userId": 1,
+    "itemId": 1,
+    "description": "Salary",
+    "category": "income",
+    "amount": "4500",
+    "date": "2024-08-01"
+  },
+  {
+    "userId": 1,
+    "itemId": 2,
+    "description": "Freelance Project",
+    "category": "income",
+    "amount": "1500",
+    "date": "2024-08-02"
+  },
+  {
+    "userId": 1,
+    "itemId": 3,
+    "description": "Gift",
+    "category": "income",
+    "amount": "300",
+    "date": "2024-08-03"
+  },
+  {
+    "userId": 1,
+    "itemId": 4,
+    "description": "Grocery",
+    "category": "expenses",
+    "amount": "300",
+    "date": "2024-08-04"
+  },
+  {
+    "userId": 1,
+    "itemId": 5,
+    "description": "House Rent",
+    "category": "expenses",
+    "amount": "1400",
+    "date": "2024-08-06"
+  },
+  {
+    "userId": 2,
+    "itemId": 8,
+    "description": "Salary",
+    "category": "income",
+    "amount": "5000",
+    "date": "2024-08-01"
+  },
+  {
+    "userId": 2,
+    "itemId": 9,
+    "description": "Investment",
+    "category": "income",
+    "amount": "800",
+    "date": "2024-08-05"
+  },
+  {
+    "userId": 2,
+    "itemId": 10,
+    "description": "Book Purchase",
+    "category": "expenses",
+    "amount": "50",
+    "date": "2024-08-06"
+  },
+  {
+    "userId": 2,
+    "itemId": 11,
+    "description": "Restaurant",
+    "category": "expenses",
+    "amount": "120",
+    "date": "2024-08-07"
+  },
+  {
+    "userId": 2,
+    "itemId": 12,
+    "description": "Electricity Bill",
+    "category": "expenses",
+    "amount": "90",
+    "date": "2024-08-08"
+  },
+  {
+    "userId": 3,
+    "itemId": 13,
+    "description": "Salary",
+    "category": "income",
+    "amount": "4800",
+    "date": "2024-08-01"
+  },
+  {
+    "userId": 3,
+    "itemId": 14,
+    "description": "Bonus",
+    "category": "income",
+    "amount": "600",
+    "date": "2024-08-03"
+  },
+  {
+    "userId": 3,
+    "itemId": 15,
+    "description": "Travel Expense",
+    "category": "expenses",
+    "amount": "400",
+    "date": "2024-08-04"
+  },
+  {
+    "userId": 3,
+    "itemId": 16,
+    "description": "Gym Membership",
+    "category": "expenses",
+    "amount": "150",
+    "date": "2024-08-05"
+  },
+  {
+    "userId": 3,
+    "itemId": 17,
+    "description": "Phone Bill",
+    "category": "expenses",
+    "amount": "60",
+    "date": "2024-08-06"
+  },
+  {
+    "userId": 4,
+    "itemId": 19,
+    "description": "Freelance Project",
+    "category": "income",
+    "amount": "2000",
+    "date": "2024-08-01"
+  },
+  {
+    "userId": 4,
+    "itemId": 20,
+    "description": "Car Repair",
+    "category": "expenses",
+    "amount": "300",
+    "date": "2024-08-03"
+  },
+  {
+    "userId": 4,
+    "itemId": 21,
+    "description": "New Laptop",
+    "category": "expenses",
+    "amount": "1200",
+    "date": "2024-08-05"
+  },
+  {
+    "userId": 4,
+    "itemId": 22,
+    "description": "Subscription",
+    "category": "expenses",
+    "amount": "10",
+    "date": "2024-08-06"
+  },
+  {
+    "userId": 4,
+    "itemId": 23,
+    "description": "Movie Ticket",
+    "category": "expenses",
+    "amount": "15",
+    "date": "2024-08-07"
+  },
+  {
+    "userId": 4,
+    "itemId": 24,
+    "description": "Coffee",
+    "category": "expenses",
+    "amount": "5",
+    "date": "2024-08-08"
+  },
+  {
+    "userId": 3,
+    "itemId": 19,
+    "description": "Petrol",
+    "category": "expenses",
+    "amount": "150",
+    "date": "2024-08-08"
+  },
+  {
+    "userId": 1,
+    "itemId": 6,
+    "description": "Utilites",
+    "category": "expenses",
+    "amount": "240",
+    "date": "2024-08-08"
+  }
+]

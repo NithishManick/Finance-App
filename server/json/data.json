@@ -1,0 +1,23 @@
+[
+  {
+    "userId": 1,
+    "username": "niz",
+    "email": "niz@gmail.com",
+    "password": "123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjMxMDA5NTMsImV4cCI6MTcyMzEwNDU1M30.0Rdi1cmfZEv5LinGE6mxBcgwxt9PL79qETnDCclxMoM"
+  },
+  {
+    "userId": 2,
+    "username": "sanchai",
+    "email": "san@gmail.com",
+    "password": "123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjMwOTMyMzAsImV4cCI6MTcyMzA5NjgzMH0.qVLs-oUi2tnkg9UWgn977oByfTq05mxTD0zYNi9PFzo"
+  },
+  {
+    "userId": 3,
+    "username": "rohit",
+    "email": "r@gmail.com",
+    "password": "123",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3MjMwOTM0NzYsImV4cCI6MTcyMzA5NzA3Nn0.L8pY8b-MBIXwbNw5uoh0H25sCkJBozskXIirvKtoqfM"
+  }
+]

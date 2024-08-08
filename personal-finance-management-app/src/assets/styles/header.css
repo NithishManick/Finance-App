@@ -1,0 +1,52 @@
+/* header.css */
+
+.header {
+  
+  padding: 20px;
+  text-align: center;
+
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  /* background-color: black; */
+  /* margin-bottom: 20px; */
+}
+
+.header h1 {
+ 
+  font-size: 24px;
+  margin: 0;
+}
+
+.nav-links {
+  list-style-type: none;
+  padding: 0;
+  margin: 20px 0 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.nav-links li {
+  display: inline;
+}
+
+.nav-links a {
+  text-decoration: none;
+ 
+  color:black;
+  font-size: 18px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.nav-links a:hover {
+  background-color: gainsboro;
+}
+.nav-links .active-link {
+  font-weight: bold;
+  color: rgb(8, 8, 8); /* or any color/style you prefer */
+}
+.inactive-link {
+  background-color: grey;
+  
+}
